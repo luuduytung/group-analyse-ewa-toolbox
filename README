@@ -1,0 +1,10 @@
+GroupAnalyseEWAToolbox is a collection of Matlab programs that implements:
+     * Exponential weighted aggregate by Proximal Langevin Monte-Carlo algorithm for group-analysis sparse regression.
+
+To reproduce figures and examples, see Scripts/ directory.
+
+
+download at 
+
+Contact: https://github.com/luuduytung/group-analyse-ewa-toolbox
+
